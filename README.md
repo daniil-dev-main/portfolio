@@ -1,7 +1,7 @@
-# Machine Learning Portfolio
+# Portfolio
 
-This repository serves as an overview of my machine learning projects.  
-I am a Mathematics student at the University of Manchester, with a strong interest in the theoretical foundations of machine learning and data-driven modelling.
+This repository serves as an overview of my published projects.  
+I am a Mathematics student at the University of Manchester with a strong interest in the theoretical foundations of machine learning, stochastic processes, probability, and data-driven modelling.
 
 ---
 
@@ -15,14 +15,24 @@ I am a Mathematics student at the University of Manchester, with a strong intere
   *Evaluation:* RMSE on validation split  
   *Repo:* https://github.com/daniil-dev-main/kaggle-song-bpm
 
+### Hackathons
+- **Stochastic Trading Backend**  
+  Backend trading system simulating asset prices using stochastic processes.  
+  *Models:* Brownian Motion, Birth-Death Processes  
+  *Core:* Order book, matching engine, trade execution  
+  *Features:* User accounts, balances, positions, order placement/cancellation  
+  *API:* REST + WebSocket  
+  *Storage:* SQLite  
+  *Repo:* https://github.com/daniil-dev-main/stochastic-trading-engine
+
 ---
 
 ## Skills & Tools
 
 - **Languages:** Python  
 - **Libraries:** NumPy, pandas, scikit-learn, XGBoost  
-- **Techniques:** Regression, model evaluation, cross-validation, feature engineering  
-- **Tools:** Git, GitHub, Jupyter Notebook  
+- **Techniques:** Regression, model evaluation, cross-validation, feature engineering, stochastic processes, trading system design
+- **Tools:** Git, GitHub, Jupyter Notebook, REST APIs, WebSockets, SQLite  
 
 ---
 
